@@ -1,9 +1,21 @@
----
+﻿---
 layout: default
 img: Stock_Equinox_15.png
 category: Services
-title: Instructor guides
+title: Preparation works to ICO
 description: |
 ---
-  Using our guides’ instructor can prepare himself/herself to the training almost from the scratch.
-  Well-explained task can help to decrease the time for preparation. 
+ In order to provide successful ICO you need to spend 90% of time just for plan. 
+There are 10 mandatory steps which were repeated through successful ICO. 
+
+Step 1: White Paper
+Step 2: Purpose of your Token
+Step 3: Terms and Conditions
+Step 4: Build a Great Team
+Step 5: Decide on what Token Technology to Use
+Step 6: Execution Plan
+Step 7: Token and Crowdsale Smart Contracts
+Step 8: Hardware Setup
+Step 9: Website
+Step 10: Market Early and Market Right
+

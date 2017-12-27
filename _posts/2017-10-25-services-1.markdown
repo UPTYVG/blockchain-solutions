@@ -5,4 +5,8 @@ category: Services
 title: MVP Development for ICO
 description: |
 ---
- If you are thinking to launch an ICO it is necessary to think what can you propose your investors together with tokens. You need to have at least an idea. How do you think, will it be enough for it? Of course, No. Nobody will believe you without some version of Product. If you don`t have it create and we can help you in it. Ask us how we can help you to create Product and launch ICO for it.
+ If you are thinking to launch an ICO it is necessary to think what can you propose your investors together with tokens. You need to have at least an idea. 
+<br>
+How do you think, will it be enough for it? Of course, No. <br>
+
+Nobody will believe you without some version of Product. If you don`t have it create and we can help you in it. Ask us how we can help you to create Product and launch ICO for it.

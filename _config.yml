@@ -2,14 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://evg-soft.com
-title: Evgsoft - Blockchain Solutions 
+url: http://yoursite.com
+title: Evgsoft - Courseware development 
 email: email@evg-soft.com
 author: Evgsoft
 description: > # "Write an awesome description for your new site here. 
- 
-Blockchain solutions 
- 
+ We are a company that specializes in developing curricula and courseware for information technologies and products. 
+ Our experience over the past year, we developed an original curriculum of courses, including: 
 copyright: 'Copyright &copy; 2017 Evgsoft. All Rights Reserved.'
 #credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 

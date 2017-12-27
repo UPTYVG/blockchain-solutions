@@ -1,11 +1,11 @@
-﻿---
+---
 layout: default
 img: Stock_Equinox_15.png
 category: Services
-title: Preparation works to ICO
+title: Preparatory work for ICO
 description: |
 ---
- In order to provide successful ICO you need to spend 90% of time just for plan. 
+ In order to provide successful ICO, you need to spend 90% of the time just for the plan. 
 There are 10 mandatory steps which were repeated through successful ICO. 
 
 <p>Step 1: White Paper</p>
@@ -18,4 +18,3 @@ There are 10 mandatory steps which were repeated through successful ICO.
 <p>Step 8: Hardware Setup</p>
 <p>Step 9: Website</p>
 <p>Step 10: Market Early and Market Right</p>
-

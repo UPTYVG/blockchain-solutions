@@ -2,7 +2,14 @@
 layout: default
 img: Stock_Equinox_2.png
 category: Services
-title: Graphics, video, photography
+title: Trainings, webinars, courseware materials
 description: |
 ---
-Professionally done media materials add a value to the training and make the learning process interesting and interactive. 
+<p>Ethereum Training: Hands-on Ethereum Development Bootcamp</p>
+<p>Blockchain Training: An Overview for Business Professionals</p>
+<p>Hyperledger Training:Developing on Hyperledger Fabric</p>
+<p>dApp with Solidity Training</p>
+<p>Blockchain Security Training</p>
+<p>Blockchain Architecture Training</p>
+<p>dApp with Solidity Training</p>
+

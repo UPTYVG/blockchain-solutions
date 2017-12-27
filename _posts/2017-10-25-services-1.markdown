@@ -2,7 +2,9 @@
 layout: default
 img: Stock_Equinox_44.png
 category: Services
-title: Student guides
+title: MVP Development for ICO
 description: |
 ---
- Our guides help student to follow by the instructor and do exercises in a simplest way. Step-by-step instructions of technical training help students to keep the plan of the lessons and understand material better than ever. Such approach will help to learn the subject very fast.
+ If you are thinking to lauch an ICO it is necessary to think what can you propose your investors together with tokens. You need to have at least an idea. 
+How do you think, will it be enough for it? Of course, No. Nobody will not believe you without some version of Product. 
+If you don`t have it create and we can help you in it. Ask us how we can help you to create Product and lauch ICO for it. 
